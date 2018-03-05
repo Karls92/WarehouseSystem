@@ -1,0 +1,8 @@
+/backend/vendor
+/backend/node_modules
+Homestead.yaml
+Homestead.json
+/backend/.env
+/backend/.idea
+.idea
+.env

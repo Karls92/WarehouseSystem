@@ -1,0 +1,43 @@
+Application: WAREHOUSE MANAGE SYSTEM
+--------------------------------------------------------------------------------
+Author: Carmen Bravo A.
+Systems Engineer. 
+Web Developer in Systems.Inc
+--------------------------------------------------------------------------------
+Technologies:
+PHP 5.6 
+Laravel 5.1
+Bootstrap for Interface design
+Ajax Technologies
+MySQL for Database (Maria DB).
+Software Ireport (Jasper software) for the design of the reports in pdf
+---------------------------------------------------------------------------------
+This system was coded initially in Spanish as an independent project to manage Warehose. 
+The language of the App right now is in Spanish and English, that's for a lot of people from different countries
+speaking different languages can understand the functionality of this power system.
+
+The main modules of this App are the next:
+
+spanish                                                        English
+1. Operaciones principales                     1. Main Operations
+   -Orden de Entrada                                       -Entry Order (This allows to Create products entry documents in pdf).
+   -Orden de Salida                                          -Out Order (This allows to Create products out documents in pdf)
+   -Orden de Devolución                                 -Devolution Order (This allows to Create products devolution documents in pdf).
+2. Reportes                                                  2. Reports (Allows to print reportes of products in pdf)
+   -General                                                          -General (allows to print general reports of entry, out or devolutions of products)
+   -Ordenes                                                         -Orders (allows to print order documents that was already created)
+   -Inventario                                                     -Product Stock (Allows to print reports of stock in warehouse). 
+3. Productos                                                3. Products
+4. Clientes                                                    4. Clients
+5. Configuracion de productos               5. Products config.
+    -Clasificaciones                                            -Classifications
+    -Unidades de Medida                                 -Units of measure
+    -Marca                                                           -Brand
+    -Modelo                                                         Model
+6. Ubicaciones                                              6. Ubications (This allows to define the states and cities where Clients are from. This is usefull in Client form)
+    -Estados                                                          -States
+    -Ciudades                                                       -Cities
+7. Actividades Recientes                            7. Recent activities (allows the admin to know each activity that user has made inside the app. That gives a better secutity level).
+8. Configuracion del sitio                          8. Setting (Interface settings, change app logo).
+
+      

@@ -1,0 +1,96 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+/*
+ * General
+ ****************************************************************************************/
+
+.navegacion-container{
+    padding-top: 15px;
+}
+
+.well-flat{
+    border-radius: 0px;
+}
+
+/*
+ * Header
+ ****************************************************************************************/
+
+.content-header{
+    padding-bottom: 15px !important;
+}
+
+
+/*
+ * Footer
+ ****************************************************************************************/
+
+ .footer-container{
+     padding:25px 0px;
+ }
+
+/*
+ * Escritorio
+ ****************************************************************************************/
+
+
+
+.vcenter{
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+
+.main-container{
+    background: white;
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+/*
+ * Formularios
+ */
+
+.callout{
+    text-align: left !important;
+}
+
+.callout li{
+    margin: 0px 45px;
+}
+
+/*
+ * TABS
+ */
+
+.nav-tabs-custom{
+    margin-bottom: 0px !important;
+    border-radius: 0px;
+}
+
+/*
+ * TABLAS
+ */
+
+#table_list td{
+    vertical-align: middle !important;
+}
+#table_list th{
+    text-align: center;
+}
+table#table_list.dataTable thead > tr > th{
+    padding-right: 8px;
+}
+
+table#table_list img.show_image_preview{
+    width: 70px !important;
+    height: 50px !important;
+}
+
+/*
+ * ORDENES
+ */
+
+.broken_order{
+    color: red;
+}
